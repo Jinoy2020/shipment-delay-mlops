@@ -1,0 +1,5 @@
+outs:
+- md5: 76637cf91860ceb367a6845b65046042
+  size: 20907595
+  hash: md5
+  path: shipments_120k.csv

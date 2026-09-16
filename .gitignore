@@ -11,9 +11,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data
-data/raw/
-data/processed/
 
 # Models
 models/
@@ -30,3 +27,9 @@ mlruns/
 # OS
 .DS_Store
 Thumbs.db
+
+# raw files
+data/raw/
+
+data/processed/*
+!data/processed/*.dvc
